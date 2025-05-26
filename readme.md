@@ -1,5 +1,3 @@
-Segue um modelo de **README.md** com os prints que você forneceu, explicando os testes realizados na API REST de pedidos:
-
 ---
 
 # API de Pedidos - Testes com Inmonia (Insomnia)
