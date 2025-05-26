@@ -83,5 +83,3 @@ Remove o pedido com ID 1.
 Todos os testes foram realizados com sucesso, demonstrando que a API está funcional para as operações básicas de CRUD. Os testes foram realizados no dia **26/05/2025** com a ferramenta Inmonia, e os prints comprovam o funcionamento correto da aplicação.
 
 ---
-
-Se quiser, posso empacotar este README com os prints em uma pasta zipada. Deseja isso?
